@@ -1,0 +1,47 @@
+.gradient-background {
+  background: linear-gradient(300deg, #F1F8E8, #55AD9B, #95D2B3, #D8EFD3);
+  background-size: 180% 180%;
+
+}
+img{
+  border-radius: 70%;
+  margin-top: 20px;
+
+}
+a{
+  margin-right: 20px;
+  color: black;
+  font-weight: bold;
+  
+}
+.navbar{
+  background-color: #95D2B3 ;
+}
+.card{
+  background-color:#63ABC3;
+}
+.card:hover{
+  background-color: #D8EFD3;
+}
+
+#list-group{
+  font-size: large;
+  font-weight: 500;
+  word-spacing: 3px;
+  border-radius: 1rem;
+  width: 98%;
+  text-indent: 5%;
+  background-color: #D8EFD3
+}
+
+#icons{
+  font-size: 100px;
+  padding-right: 20px;
+  border-radius: 1rem;
+  background-color: #F1F8E8;
+}
+i:hover{
+  transform:scale(1.5);
+  background-color: #63ABC3;
+}
+
